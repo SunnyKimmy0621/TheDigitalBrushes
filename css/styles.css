@@ -46,9 +46,9 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 150px 0;
-    background-image: url('hero-bg.jpg');
+    background-image: url('../img/Cafe\Header2.jpg');
     background-size: cover;
-    color: white;
+    color: rgb(229, 222, 216);
 }
 
 .hero h1 {
@@ -75,8 +75,11 @@ nav a:hover {
 }
 
 .menu {
-    padding: 100px 0;
     text-align: center;
+    padding: 185px 0;
+    background-image: url('../img/FoodHeader.png');
+    background-size: cover;
+    color: rgb(0, 0, 0);
 }
 
 .menu h2 {
