@@ -34,5 +34,20 @@ This is the Features of Our Website:
 </div>
 
 
-<h1>Name</<h1>
-Kim Andrei D. Padrones - 20238
+<h1>Name and Email</h1>
+Kim Andrei D. Padrones - 202380421@psu.palawan.edu.ph
+<br>
+Mary Catherine Grace T. Lanat - 2023100479n@psu.palawan.edu.ph
+
+<h2>Facebook and Github Icons</h2>
+
+Kim Padrones:
+
+[<img src = "img/fb.png" width = "20">](https://web.facebook.com/sunnysunshinekimmy0621)
+[<img src = "img/gh.png" width="20">](https://github.com/SunnyKimmy0621)
+
+Mica Lanat:
+
+[<img src = "img/fb.png" width = "20">](https://web.facebook.com/marycatherinegrace.lanat)
+[<img src = "img/gh.png" width="20">](https://github.com/KatrinaLanat)/
+
