@@ -49,5 +49,5 @@ Kim Padrones:
 Mica Lanat:
 
 [<img src = "img/fb.png" width = "20">](https://web.facebook.com/marycatherinegrace.lanat)
-[<img src = "img/gh.png" width="20">](https://github.com/KatrinaLanat)/
+[<img src = "img/gh.png" width="20">](https://github.com/KatrinaLanat)
 
